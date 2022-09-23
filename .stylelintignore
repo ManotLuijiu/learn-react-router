@@ -1,0 +1,13 @@
+src/**/*.{js,ts,jsx,tsx}
+stylelint.config.cjs
+
+/.svelte/
+/build/
+/functions/
+/node_modules/
+/static/
+/tmp/
+
+*.cjs
+*.json
+*.txt
